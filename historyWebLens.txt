@@ -1,0 +1,49 @@
+1953  virtualenv pdf
+ 1954  source pdf/bin/activate
+ 1955  sudo apt-get install libopencv-dev python3-opencv
+ 1956  sudo -H pip3 install opencv-python
+ 1957  python3 pdf2ocr2translateCHATGPT.py 
+ 1958  python pdf2ocr2translateCHATGPT.py 
+ 1959  python3 pdf2ocr2translateCHATGPT.py 
+ 1960  sudo -H pip3 install opencv-python-headless
+ 1961  python3 pdf2ocr2translateCHATGPT.py 
+ 1962  python pdf2ocr2translateCHATGPT.py 
+ 1963  pip --list
+ 1964  pip list
+ 1965  pip3 list
+ 1966  pip3 install opencv-python-headless
+ 1967  pip3 install opencv-python
+ 1968  python pdf2ocr2translateCHATGPT.py 
+ 1969  pip3 install pytesseract
+ 1970  python pdf2ocr2translateCHATGPT.py 
+ 1971  pip3 install googletrans=3.1.0a0
+ 1972  pip3 install googletrans==3.1.0a0
+ 1973  python pdf2ocr2translateCHATGPT.py 
+ 1974  feh nuova_immagine.png 
+ 1975  python pdf2ocr2translateLENS-ARGPARSE.py -h
+ 1976  python pdf2ocr2translateLENS-ARGPARSE.py -i ../Downloads/photo_1.jpg
+ 1977  LL
+ 1978  ll
+ 1979  feh 2023_05_13_23_02_20.png 
+ 1980  gliv 2023_05_13_23_02_20.png 
+ 1981  python pdf2ocr2translateLENS-ARGPARSE.py -i ../Downloads/photo_2.png
+ 1982  history
+ 1983  python pdf2ocr2translateLENS-ARGPARSE.py -i ../Downloads/photo_2.jpg
+ 1984  ll
+ 1985  gliv  2023_05_13_23_07_30.png 
+ 1986  python pdf2ocr2translateLENS-ARGPARSE.py -i ../Downloads/photo_3.jpg
+ 1987  python
+ 1988  python pdf2ocr2translateLENS-ARGPARSE.py -i ../Downloads/photo_3.jpg
+ 1989  python pdf2ocr2translateLENS-ARGPARSE.py -i ../Downloads/photo_2.jpg
+ 1990  ll
+ 1991  python pdf2ocr2translateLENS-ARGPARSE-webcam.py 
+ 1992  pip install imutils
+ 1993  python pdf2ocr2translateLENS-ARGPARSE-webcam.py 
+ 1994  ll
+ 1995  gliv  tempTranslate.png 
+ 1996  python pdf2ocr2translateLENS-ARGPARSE-webcam.py 
+ 1997  gliv tempTranslate.png 
+ 1998  gliv  IMAGES/2023_05_14_00_1*
+ 1999  exit
+ 2000  cd Desktop/
+ 2001  history
